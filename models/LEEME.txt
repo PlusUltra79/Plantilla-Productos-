@@ -1,2 +1,0 @@
-Opcional: copia aqui isnet-general-use.onnx (178 MB) para quitar fondos sin descargar nada.
-Si no esta, el programa lo descarga una sola vez a la carpeta .anuncio_facil_models de tu usuario.
