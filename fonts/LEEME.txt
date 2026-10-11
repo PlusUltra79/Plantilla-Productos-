@@ -1,0 +1,3 @@
+Opcional: copia aqui Montserrat-ExtraBold.ttf, Montserrat-Bold.ttf y Montserrat-SemiBold.ttf
+(descargables gratis de Google Fonts) para usar la tipografia Montserrat.
+Sin ellas se usa Arial Black / Arial Bold de Windows.
